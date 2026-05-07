@@ -38,3 +38,5 @@ new_samples.csv
 # Environment
 .env
 TCGA_LIHC_HiSeqV2.txt
+data/pancancer_expression.csv 
+figures/Final_PanCancer_Stemness_Figure.tiff 
