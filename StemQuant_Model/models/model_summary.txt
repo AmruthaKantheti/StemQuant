@@ -1,0 +1,8 @@
+Stemness R2: 0.994
+Risk AUC: 0.990
+
+Interpretation:
+Model shows strong pan-cancer predictive performance.
+High AUC suggests excellent risk discrimination.
+Stemness prediction demonstrates robust generalization across GBM, LGG and LIHC.
+Feature importance analysis identifies transcriptomic drivers of stemness-associated risk.

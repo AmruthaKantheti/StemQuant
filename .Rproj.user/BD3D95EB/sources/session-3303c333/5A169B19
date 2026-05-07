@@ -1,0 +1,27 @@
+{
+    "id": "5A169B19",
+    "path": "D:/Tumor_Stemness_Project/01_GEO_Stemness_Signature.R",
+    "project_path": "01_GEO_Stemness_Signature.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1771342749809.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "4,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1771593373,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1771593373,
+    "read_only": false,
+    "read_only_alternatives": []
+}

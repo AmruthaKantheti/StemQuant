@@ -1,0 +1,39 @@
+# Auto-generated files
+__pycache__/
+.vscode/
+*.pyc
+*.pyo
+
+# R temporary and workspace files
+.RData
+.RDataTmp
+.RDataTmp1
+.RDataTmp2
+.RDataTmp3
+.Rhistory
+GBM_Stemness_Workspace.RData
+
+# Large TCGA raw data files - too big for GitHub
+TCGA_GBM_HiSeqV2
+TCGA_LGG_HiSeqV2
+TCGA_LIHC_HiSeqV2
+TCGA.GBM.sampleMap_GBM_clinicalMatrix
+TCGA.LGG.sampleMap_LGG_clinicalMatrix
+
+# RDS processed data files - large
+GBM_Expression_Matrix.rds
+GBM_Stemness_Vector.rds
+GBM_Stemness_Group.rds
+LGG_Expression_Matrix.rds
+LGG_Stemness_Vector.rds
+LIHC_Expression_Matrix.rds
+LIHC_Stemness_Vector.rds
+
+# Database
+database/
+
+# Sample data
+new_samples.csv
+
+# Environment
+.env
