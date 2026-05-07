@@ -37,3 +37,4 @@ new_samples.csv
 
 # Environment
 .env
+TCGA_LIHC_HiSeqV2.txt
